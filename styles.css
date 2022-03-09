@@ -1,0 +1,31 @@
+#caja1,#caja2,#caja3{
+  background-color: aqua;
+  color: red;
+  border: blueviolet 15px;
+  width: 100px;
+  height: 50px;
+  margin: 0px;
+
+}
+
+#caja1{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#caja2{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+#caja3{
+    width: 200px;
+    height: 300px;
+}
+
+body{
+    background-color: rgb(180, 94, 94);
+    font-size: 21;
+
+}
